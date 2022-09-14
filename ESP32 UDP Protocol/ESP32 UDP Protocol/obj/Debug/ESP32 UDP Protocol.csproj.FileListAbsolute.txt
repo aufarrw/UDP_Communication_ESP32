@@ -1,0 +1,11 @@
+D:\magang\29 Agustus - 2 September 2022\1 September 2022\ESP32 UDP Protocol\ESP32 UDP Protocol\bin\Debug\ESP32 UDP Protocol.exe.config
+D:\magang\29 Agustus - 2 September 2022\1 September 2022\ESP32 UDP Protocol\ESP32 UDP Protocol\bin\Debug\ESP32 UDP Protocol.exe
+D:\magang\29 Agustus - 2 September 2022\1 September 2022\ESP32 UDP Protocol\ESP32 UDP Protocol\bin\Debug\ESP32 UDP Protocol.pdb
+D:\magang\29 Agustus - 2 September 2022\1 September 2022\ESP32 UDP Protocol\ESP32 UDP Protocol\obj\Debug\ESP32 UDP Protocol.csproj.AssemblyReference.cache
+D:\magang\29 Agustus - 2 September 2022\1 September 2022\ESP32 UDP Protocol\ESP32 UDP Protocol\obj\Debug\ESP32 UDP Protocol.csproj.SuggestedBindingRedirects.cache
+D:\magang\29 Agustus - 2 September 2022\1 September 2022\ESP32 UDP Protocol\ESP32 UDP Protocol\obj\Debug\ESP32_UDP_Protocol.Form1.resources
+D:\magang\29 Agustus - 2 September 2022\1 September 2022\ESP32 UDP Protocol\ESP32 UDP Protocol\obj\Debug\ESP32_UDP_Protocol.Properties.Resources.resources
+D:\magang\29 Agustus - 2 September 2022\1 September 2022\ESP32 UDP Protocol\ESP32 UDP Protocol\obj\Debug\ESP32 UDP Protocol.csproj.GenerateResource.cache
+D:\magang\29 Agustus - 2 September 2022\1 September 2022\ESP32 UDP Protocol\ESP32 UDP Protocol\obj\Debug\ESP32 UDP Protocol.csproj.CoreCompileInputs.cache
+D:\magang\29 Agustus - 2 September 2022\1 September 2022\ESP32 UDP Protocol\ESP32 UDP Protocol\obj\Debug\ESP32 UDP Protocol.exe
+D:\magang\29 Agustus - 2 September 2022\1 September 2022\ESP32 UDP Protocol\ESP32 UDP Protocol\obj\Debug\ESP32 UDP Protocol.pdb
